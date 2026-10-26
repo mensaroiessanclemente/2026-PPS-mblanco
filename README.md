@@ -1,1 +1,1 @@
-# 2026-PPS-mblanco
+# Mi Proyecto Java

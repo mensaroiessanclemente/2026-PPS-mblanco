@@ -8,7 +8,7 @@ caracteres especiais
 Debe mostrar un resumo das comprobacións que non se cumpran.
 """
 
-contraseña = input("Introduce una contraseña ")
+contraseña = input("Introduce a túa contrasinal: ")
 
 
 def comprobar_contraseña(contraseña):

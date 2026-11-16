@@ -7,4 +7,4 @@ def mayor_numero(a, b, c):
         return c
 
 
-print(mayor_numero(3, 5, 2))
+print(mayor_numero(3, 3, 2))
